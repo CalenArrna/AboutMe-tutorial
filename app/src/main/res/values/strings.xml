@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="about_name">Csabi Nagy</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio1">
+        Hi, my name is Csaba Nagy!
+        \n\nTo be a programmer was a childhood dream, but did not have the right
+        \noppurtunities in that time. But in the end of last year, I started to dig myself in the
+        \ndeveloper role and I ended up in a course made by the Progmatic Coding Academy.
+        \nAs I got deeper and deeper I realised I enjoy it more and more every day.
+        \nI dropped in to a very fascinating universe.\n\n
+    </string>
+    <string name="bio2">On the course the main programming language was Java. Later on we also learned HTML,
+        \nCSS and SQL (MySQL, PostGresql). In our project work we used the Scrum Metodology and
+        \nGit Version Control. In the last part I decided to go for the backend specialisation,
+        \nso I had the luck to get know of the Bootstrap and Spring framework combined with REST API.
+        \nOther technologies I worked with: JPA, Thymeleaf, Oauth, Maven, Bootstrap,
+        \nDozer and Postman. I spent my free time to get some knowledge about other languages
+        \nlike JavaScript, C#, Kotlin and Swift.\n\n</string>
+    <string name="certificateDescription">certificateOfProgramming</string>
+    <string name="placeofimage">placeOfimage</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
